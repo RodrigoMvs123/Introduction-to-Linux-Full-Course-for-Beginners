@@ -2,6 +2,10 @@ Introduction to Linux – Full Course for Beginners
 
 https://www.youtube.com/watch?v=sWbUDq4S6Y8 
 
+https://raw.githubusercontent.com/RodrigoMvs123/Introduction-to-Linux-Full-Course-for-Beginners/main/README.md
+
+
+
 https://www.linuxfoundation.org/ 
 
 Chapter 1
