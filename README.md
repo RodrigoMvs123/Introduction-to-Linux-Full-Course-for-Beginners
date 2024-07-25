@@ -1,4 +1,5 @@
-Introduction to Linux – Full Course for Beginners
+
+## Introduction to Linux – Full Course for Beginners
 
 https://www.youtube.com/watch?v=sWbUDq4S6Y8 
 
@@ -6,11 +7,11 @@ https://raw.githubusercontent.com/RodrigoMvs123/Introduction-to-Linux-Full-Cours
 
 https://github.com/RodrigoMvs123/Introduction-to-Linux-Full-Course-for-Beginners/blame/main/README.md
 
-https://www.linuxfoundation.org/ 
+- https://www.linuxfoundation.org/ 
 
-Chapter 1
+## Chapter 1
 Introduction to Linux Families
-
+```
 Describe software required
 Describe the major Linux distro families
 
@@ -58,9 +59,11 @@ Debian family is upstream for Ubuntu
 DPKG-based APT package manager
 Widely used for cloud deployments
 GNOME-based but differs visually 
+```
 
-Chapter 2 
+## Chapter 2 
 Linux Philosophy and Concepts 
+```
 Define common Linux terms
 Discuss components of Linux distro
 
@@ -124,10 +127,11 @@ Linux accesses features through files
 Linux is a multi tasking OS
 Terms: Kernel, Distribution, Boot Loader
 Linux distro includes kernel and tools
+```
 
-Chapter 3
-Linux Basics and System Startup 
-
+## Chapter 3
+Linux Basics and System Startup
+```
 Identify Linux File Systems
 Identify differences: partitions vs filesystem
 Describe the boot process 
@@ -203,7 +207,6 @@ The Filesystem Hierarchy Standard ( FHS )
 Typical Ubuntu Filesystem Hierarchy 
 
 
- 
 Command Shell using getty
 X Windows System ( Graphical User Interface ) 
 
@@ -234,7 +237,6 @@ Category 1:: Physical media: CD, DVD, USB, or HDD
 
 Category 2:: Network media: HTTP, FTP, NFS
 
- 
 
 In addition, the installation methods can be categorizes into 4 major categories:
 
@@ -247,9 +249,11 @@ Method 3:: Replacement: overwriting of current OS with Linux on platform storage
 Method 4:: Upgrading: enhancing current OS to newer or different version of Linux OS
 Linux Installation: Install Source ( The Process ) 
 https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview 
+```
 
-Chapter 4
+## Chapter 4
 Graphical Interface
+```
 Manage graphical interfaces
 Perform operations with GUI
 Change graphical desktop
@@ -271,9 +275,11 @@ Ubuntu Mint
 Desktop Environment 
 Session Manager
 Window Manager
+```
 
-Chapter 5
+## Chapter 5
 System Configuration from the Graphical Interface
+```
 Use the System Settings panel
 Specifying Screen Resolution
 
@@ -349,9 +355,11 @@ SUSE Family Linux
 
 Installing and Updating Software in openSUSE
 Installing and Updating Software in Ubuntu
+```
 
-Chapter 6
+## Chapter 6
 Common Applications
+```
 Internet Applications
 Web Browsers
 Firefox
@@ -410,9 +418,11 @@ Extensive information about the image
 Inkscape
 Eye of Gnome
 Image Magick
+```
 
-Chapter 8
+## Chapter 7
 Command Line Operations 
+```
 Use the command line
 Using a Text Terminal on the graphical desktop
 admin@ubuntu:~$ useradd -m -c “alexis” -s/bin/bash alexis
@@ -896,10 +906,11 @@ student@ubuntu:~$ sudo apt-get remove wget
 student@ubuntu:~$ sudo apt-get remove wget2
 …
 student@ubuntu:~$ 
+```
 
-Chapter 8
+## Chapter 8
 Finding Linux Documentation 
-
+```
 Use different sources of documentation
 
 Linux documentation sources
@@ -955,10 +966,11 @@ Use other documentation sources
 Desktop help system
 Package documentation
 Online resources
+```
 
-Chapter 9
+## Chapter 9
 Processes 
-
+```
 Describe what a process is 
 
 What is a process ?
@@ -1167,7 +1179,9 @@ student@openSUSE:/tmp> ./testsleep.sh
 student@openSUSE:/tmp> ./testsleep.sh 3
 …
 student@openSUSE:/tmp> 
+```
 
+```
 Chapter 10
 File Operations 
 
@@ -1414,7 +1428,9 @@ bzip2                    Produce files significantly smaller than those produced
 xz                         The most space-efficient compression utility used in Linux
 zip                        Is often required to examine and decompress archives from other
                              operating systems
+```
 
+```
 Chapter 11
 Text Editors 
 
@@ -1580,7 +1596,9 @@ Query replacing ftp with PTF: (? for help)
 Mark set
 find file: /tmp/etc/group
 Note: file is write protected 
+```
 
+```
 Chapter 12 
 User Environment 
 
@@ -1888,7 +1906,9 @@ c7:/tmp> ls -l file1 ?
 …
 c7:/tmp> rm file1
 c7:/tmp>
+```
 
+```
 Chapter 13
 Manipulating Text
 
@@ -2261,7 +2281,9 @@ c7:/tmp> cut -f2 tabfile
 c7:/tmp> 
 
 $ ls -l | cut -d“ ” -f3
+```
 
+```
 Chapter 14
 Network Operations 
 
@@ -2536,8 +2558,5 @@ student@ubuntu:/tmp$
 [student@centos ~]$ scp -r /home/student 172.16.249.133:/tmp
 …
 [student@centos ~]$ 
-
-
-
-
+```
 
