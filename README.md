@@ -1181,10 +1181,9 @@ student@openSUSE:/tmp> ./testsleep.sh 3
 student@openSUSE:/tmp> 
 ```
 
-```
-Chapter 10
+## Chapter 10
 File Operations 
-
+```
 Explore the filesystem and its hierarchy 
 
 Introduction to Filesystems
@@ -1430,10 +1429,9 @@ zip                        Is often required to examine and decompress archives 
                              operating systems
 ```
 
-```
-Chapter 11
+## Chapter 11
 Text Editors 
-
+```
 How to create and edit files
 
 Overview of Text Editors in Linux 
@@ -1598,10 +1596,9 @@ find file: /tmp/etc/group
 Note: file is write protected 
 ```
 
-```
-Chapter 12 
+## Chapter 12 
 User Environment 
-
+```
 Use and configure user accounts 
 
 Identifying the Current User 
@@ -1908,10 +1905,9 @@ c7:/tmp> rm file1
 c7:/tmp>
 ```
 
-```
-Chapter 13
+## Chapter 13
 Manipulating Text
-
+```
 Display and append to file contents
 
 Command Line Tools for Manipulating Text Files 
@@ -2283,10 +2279,9 @@ c7:/tmp>
 $ ls -l | cut -d“ ” -f3
 ```
 
-```
-Chapter 14
+## Chapter 14
 Network Operations 
-
+```
 Explaining basic network concepts
 
 Introduction to Network
